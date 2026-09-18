@@ -6,7 +6,7 @@ API desenvolvida em Node.js utilizando o framework Fastify para consumir, parsea
 
 ## Tecnologias Utilizadas
 - **Node.js** (Ambiente de execução JavaScript)
-- **Fastify** (Framework web de alta performance e baixo overhead)[cite: 1]
+- **Fastify** (Framework web de alta performance e baixo overhead)
 - **JavaScript (ES Modules / Async-Await)**
 - **Copilot/ChatGPT** (Ajustes e correções gerais)
 
